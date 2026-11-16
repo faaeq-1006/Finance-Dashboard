@@ -1,0 +1,11 @@
+node_modules
+dist
+web/dist
+.env
+.env.test
+storage
+e2e/test-results
+e2e/report
+*.log
+e2e/server.log
+release
